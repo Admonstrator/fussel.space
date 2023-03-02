@@ -1,11 +1,11 @@
-baseURL = "https://fussel.space/"
+baseURL = "https://mate.sysadmon.de/"
 languageCode = "de-de"
 title = "fussel.space"
 theme = "fussel.theme"
-enableGitInfo = true
+enableGitInfo = false
 
 [params]
-  description = "A small website. About mate. And foo."
+  description = "A small website. About mate. And foo. Originally created by bake"
 
 [permalinks]
   mate = "/mate/:slug/"
@@ -25,8 +25,3 @@ enableGitInfo = true
     name = "API"
     url = "/mate/index.json"
     weight = 20
-  [[menu.meta]]
-    identifier = "git"
-    name = "Git"
-    url = "https://git.192k.pw/bake/fussel.space"
-    weight = 30
