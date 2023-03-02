@@ -1,4 +1,4 @@
-baseURL = "https://mate.sysadmon.de/"
+baseURL = "/"
 languageCode = "de-de"
 title = "fussel.space"
 theme = "fussel.theme"
